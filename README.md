@@ -1,4 +1,4 @@
-# Auth-API-with-OTP-and-Token-Implimentation
+# Auth-API-with-OTP-JWT-Refresh-Token
 
 A secure authentication API built with TypeScript and Node.js, featuring OTP code implementation, refresh token and access token management.
 
